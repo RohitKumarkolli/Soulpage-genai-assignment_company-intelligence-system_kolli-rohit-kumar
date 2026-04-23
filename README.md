@@ -112,7 +112,7 @@ company_intel/
 ### 1. Clone & create virtual environment
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/company-intelligence-system.git
+git clone https://github.com/RohitKumarkolli/company-intelligence-system.git
 cd company-intelligence-system
 python -m venv venv
 
