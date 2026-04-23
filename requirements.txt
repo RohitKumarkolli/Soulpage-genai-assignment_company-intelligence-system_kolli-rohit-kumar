@@ -1,0 +1,38 @@
+# ─────────────────────────────────────────────
+# Company Intelligence Agentic System
+# Requirements — pinned for reproducibility
+# ─────────────────────────────────────────────
+
+# ── Core LLM & Agent Framework ──
+langchain==0.3.25
+langchain-openai==0.3.16
+langchain-community==0.3.24
+langgraph==0.4.1
+
+# ── OpenAI SDK ──
+openai==1.77.0
+langchain-groq
+
+# ── HTTP & API Calls ──
+requests==2.32.3
+httpx==0.28.1
+
+# ── Environment & Config ──
+python-dotenv==1.1.0
+
+# ── Data Handling ──
+pydantic==2.11.4
+
+# ── Logging ──
+loguru==0.7.3
+
+# ── Optional: Streamlit UI ──
+streamlit==1.45.0
+
+# ── Optional: LangSmith (Observability) ──
+langsmith==0.3.42
+
+# ── Dev / Testing ──
+pytest==8.3.5
+pytest-asyncio==0.26.0
+
