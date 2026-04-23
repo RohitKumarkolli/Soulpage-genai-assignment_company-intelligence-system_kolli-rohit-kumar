@@ -112,8 +112,8 @@ company_intel/
 ### 1. Clone & create virtual environment
 
 ```bash
-git clone https://github.com/RohitKumarkolli/company-intelligence-system.git
-cd company-intelligence-system
+git clone https://https://github.com/RohitKumarkolli/Soulpage-genai-assignment_company-intelligence-system_kolli-rohit-kumar.git
+cd Soulpage-genai-assignment_company-intelligence-system_kolli-rohit-kumar
 python -m venv venv
 
 # Windows
